@@ -2,7 +2,8 @@
   "name": "interpolacion-frontend",
   "version": "1.0.0",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build"
   },
   "dependencies": {
     "bootstrap": "^5.3.5",
